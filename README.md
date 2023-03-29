@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm studying Information Securtiy Technology in Istinye University.<br>I learn Python, HTML/CSS/JS, MSSQL , Linux.
+I'm studying Information Securtiy Technology at Istinye University.<br>I learn Python, HTML/CSS/JS, MSSQL , Linux.
 
 
 ## 🌐 Socials:
